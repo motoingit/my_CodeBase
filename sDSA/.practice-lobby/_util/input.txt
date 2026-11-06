@@ -1,0 +1,6 @@
+string str = "ABBCCABCC";
+string ptr = "ABC";
+
+const long long BASE = 256;
+const long long MOD = 1000000007LL;
+
